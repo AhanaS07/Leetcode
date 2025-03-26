@@ -1,4 +1,5 @@
 #Palindrome Number
+#Maths
 #return true if x is a palindrome, and false otherwise.
 
 class Solution(object):
